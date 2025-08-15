@@ -11,7 +11,8 @@
   <br>
 🔗 LinkedIn: https://linkedin.com/in/joaoscj
 </p>
-<br><hr>
+
+<hr>
 
 <p>
 Desenvolvedor em Java e Spring Boot, com experiência no desenvolvimento de APIs REST, microsserviços e integrações com serviços AWS em ambientes de missão crítica. Atuo com JPA/Hibernate, bancos de dados relacionais e mensageria de alta volumetria, sempre buscando soluções performáticas, escaláveis e seguras. Minha trajetória inclui o setor financeiro, um estágio internacional no Canadá e projetos de inovação em visão computacional, aplicando metodologias ágeis para entregar valor de forma contínua.
