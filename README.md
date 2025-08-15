@@ -1,9 +1,9 @@
-## Bem vindo!
+<h1>Bem vindo!</h1>
 
-<h2>João dos Santos, 21</h2>
+<h2>Eu me chamo João dos Santos, tenho 21 ano e sou um engenheiro de software,</h2>
 
 <p>
-  Sou engenheiro de software especializado em Java e Spring Boot, com experiência no desenvolvimento de APIs REST, microsserviços e integrações com serviços AWS em ambientes de missão crítica. Atuo com JPA/Hibernate, bancos de dados relacionais e mensageria de alta volumetria, sempre buscando soluções performáticas, escaláveis e seguras. Minha trajetória inclui o setor financeiro, um estágio internacional no Canadá e projetos de inovação em visão computacional, aplicando metodologias ágeis para entregar valor de forma contínua.
+... especializado em Java e Spring Boot, com experiência no desenvolvimento de APIs REST, microsserviços e integrações com serviços AWS em ambientes de missão crítica. Atuo com JPA/Hibernate, bancos de dados relacionais e mensageria de alta volumetria, sempre buscando soluções performáticas, escaláveis e seguras. Minha trajetória inclui o setor financeiro, um estágio internacional no Canadá e projetos de inovação em visão computacional, aplicando metodologias ágeis para entregar valor de forma contínua.
 </p>
 <br><br>
 
