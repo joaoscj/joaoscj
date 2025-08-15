@@ -15,7 +15,7 @@
 <hr>
 
 <p>
-Desenvolvedor em Java e Spring Boot, com experiência no desenvolvimento de APIs REST, microsserviços e integrações com serviços AWS em ambientes de missão crítica. Atuo com JPA/Hibernate, bancos de dados relacionais e mensageria de alta volumetria, sempre buscando soluções performáticas, escaláveis e seguras. Minha trajetória inclui o setor financeiro, um estágio internacional no Canadá e projetos de inovação em visão computacional, aplicando metodologias ágeis para entregar valor de forma contínua.
+Engenheiro de software back-end com experiência em Java, Spring, JPA/Hibernate e desenvolvimento de APIs REST. Atuei em sistemas críticos financeiros, integrando serviços AWS e mensageria de alta volumetria, além de um estágio internacional remoto no desenvolvimento de sistemas de monitoramento industrial. Cofundador do Sentinel, sistema de segurança com visão computacional baseado em AWS Rekognition. Tenho vivência em metodologias ágeis (Scrum, Kanban/Scrumban), bancos de dados SQL (MySQL, SQL Server, Postgre), Git/GitHub com Gitflow, Docker, design patterns, arquitetura e engenharia de software.
 </p>
 <br><br>
 
