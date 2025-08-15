@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="25" alt="aws logo"  />
+  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/aws/aws-original.svg" height="25" alt="aws logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
   <img width="8" />
