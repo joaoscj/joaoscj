@@ -1,13 +1,13 @@
-# 👨‍💻 João dos Santos Cardoso de Jesus
+<h1>👨‍💻 João dos Santos Cardoso de Jesus</h1>
 
-**Engenheiro de Software | Java | Spring | AWS | REST APIs**
+<h3>**Engenheiro de Software | Java | Spring | AWS | REST APIs**</h3>  
 
 <p>
 📍 São Paulo, Brasil
   <br>
-📧 joaodigitalscj@hotmail.com  
+📧 E-mail: joaodigitalscj@hotmail.com  
   <br>
-🔗 [LinkedIn](https://linkedin.com/in/joaoscj)
+🔗 LinkedIn: https://linkedin.com/in/joaoscj
 </p>
 <br><br>
 
