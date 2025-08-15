@@ -3,8 +3,10 @@
 <h2>Eu me chamo João dos Santos, tenho 21 ano e sou um engenheiro de software.</h2>
 
 <p>
-📍 São Paulo, Brasil  
+📍 São Paulo, Brasil
+  <br>
 📧 joaodigitalscj@hotmail.com  
+  <br>
 🔗 [LinkedIn](https://linkedin.com/in/joaoscj)
 </p>
 <br><br>
