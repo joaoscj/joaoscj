@@ -1,5 +1,5 @@
 <h1>👨‍💻 João dos Santos Cardoso de Jesus</h1>
-<h3>Engenheiro de Software | Java | Spring | AWS | Docker | REST</h3>  
+<h3>Desenvolvedor back-end | C# | .NET | AWS</h3>  
 <hr>
 <p>
 📍 São Paulo, Brasil
