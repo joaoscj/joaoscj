@@ -14,9 +14,9 @@ Desenvolvedor back-end com experiência no desenvolvimento de APIs REST, atuaç�
 </p>
 <br><br>
 <div align="left">
-  <img src="https://github.com/devicons/devicon/tree/v2.17.0/icons/c-sharp/c-sharp-original.svg" height="25" alt="c sharp logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-plain.svg" height="25" alt="c sharp logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dot-net/dot-net-original.svg" height="25" alt="dotnet logo"  />
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="25" alt="aws logo"  />
   <img width="8" />
