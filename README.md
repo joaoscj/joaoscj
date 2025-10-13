@@ -1,5 +1,5 @@
 <h1>👨‍💻 João dos Santos Cardoso de Jesus</h1>
-<h3>Desenvolvedor back-end | C# | .NET | AWS</h3>  
+<h3>Desenvolvedor back-end | Java | Spring | AWS</h3>  
 <hr>
 <p>
 📍 São Paulo, Brasil
@@ -14,9 +14,9 @@ Desenvolvedor back-end com experiência no desenvolvimento de APIs REST, atuaç�
 </p>
 <br><br>
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/csharp/csharp-plain.svg" height="25" alt="c sharp logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/java/java-plain.svg" height="25" alt="java logo"  />
   <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/dot-net/dot-net-original.svg" height="25" alt="dotnet logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="25" alt="aws logo"  />
   <img width="8" />
