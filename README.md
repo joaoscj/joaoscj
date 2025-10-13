@@ -18,7 +18,7 @@ Desenvolvedor back-end com experiência no desenvolvimento de APIs REST, atuaç�
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/spring/spring-original.svg" height="25" alt="spring logo"  />
   <img width="8" />
-  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/original.svg" height="25" alt="react logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/react/react-original.svg" height="25" alt="react logo"  />
   <img width="8" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="25" alt="aws logo"  />
   <img width="8" />
