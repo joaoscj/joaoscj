@@ -1,5 +1,5 @@
 <h1>👨‍💻 João dos Santos Cardoso de Jesus</h1>
-<h3>Desenvolvedor back-end | Java | Spring | AWS</h3>  
+<h3>Desenvolvedor back-end | Java | Spring | React | AWS</h3>  
 <hr>
 <p>
 📍 São Paulo, Brasil
@@ -10,7 +10,7 @@
 </p>
 <hr>
 <p>
-Desenvolvedor back-end com experiência no desenvolvimento de APIs REST, atuação em sistemas críticos no mercado financeiro, integrando serviços AWS e mensageria de alta volumetria, além de um estágio internacional remoto no desenvolvimento de sistemas de monitoramento industrial. Cofundador do Sentinel, sistema de segurança com visão computacional. Tenho vivência em tecnologias como C# e .NET metodologias ágeis (Scrum, Kanban/Scrumban), bancos de dados SQL (MySQL, SQL Server, Postgres), Git/GitHub com Gitflow, Docker, design patterns, arquitetura e engenharia de software.
+Desenvolvedor back-end com experiência no desenvolvimento de APIs REST, atuação em sistemas críticos no mercado financeiro, integrando serviços AWS e mensageria de alta volumetria, além de um estágio internacional remoto no desenvolvimento de sistemas de monitoramento industrial. Cofundador do Sentinel, sistema de segurança com visão computacional. Tenho vivência nas tecnologias Java com Spring Framework, JPA, Hibernate, C#, .NET metodologias ágeis (Scrum, Kanban/Scrumban), bancos de dados SQL (MySQL, SQL Server, Postgres), Git, GitHub, Gitflow, Docker, design patterns, arquitetura e engenharia de software.
 </p>
 <br><br>
 <div align="left">
