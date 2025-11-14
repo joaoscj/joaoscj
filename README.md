@@ -1,4 +1,4 @@
-<h1>👨‍💻 João dos Santos Cardoso de Jesus</h1>
+<h1>👨‍💻 João Cardoso</h1>
 <h3>Desenvolvedor back-end | Java | Spring | React | AWS</h3>  
 <hr>
 <p>
