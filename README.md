@@ -6,7 +6,7 @@
   <br>
 📧 E-mail: joaodigitalscj@hotmail.com  
   <br>
-🔗 LinkedIn: https://linkedin.com/in/joaoscj
+🔗 LinkedIn: https://linkedin.com/in/joaocrdso
 </p>
 <hr>
 <p>
